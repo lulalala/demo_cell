@@ -1,4 +1,4 @@
-class MailCell2Cell < Cell::ActionMailer
+class MailCell2Cell < Cell::ActionMailer2
 
   def item
     render
